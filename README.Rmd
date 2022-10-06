@@ -7,3 +7,8 @@ output: github_document
 # My first commit
 
 This is my first commit.
+What is the difference between git repository and project file ~ storing data? navigating data? local reproducible?
+
+#my second commit
+
+This is my second commit
