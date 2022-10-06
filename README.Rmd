@@ -12,3 +12,6 @@ What is the difference between git repository and project file ~ storing data? n
 #my second commit
 
 This is my second commit
+# my thirs commit
+
+this is my third commit
