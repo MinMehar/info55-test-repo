@@ -10,6 +10,8 @@ What is the difference between git repository and project file \~
 storing data? navigating data? local reproducible? new commit code on
 mode ficing conflict in title
 
+hi hi
+
 \#my second commit
 
 This is my second commit \# my thirs commit
