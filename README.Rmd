@@ -9,7 +9,7 @@ output: github_document
 This is my first commit.
 
 What is the difference between git repository and project file ~ storing data? navigating data? local reproducible? new commit code on mode
-
+ficing conflict in title
 
 #my second commit
 
